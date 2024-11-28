@@ -7,13 +7,7 @@ Ce projet permet de créer un fichier XML nommé `PaymentRequest.xml` contenant 
 
 ### Générer le fichier XML
 Exécutez le script `CreateXml.py` pour générer un fichier `PaymentRequest.xml` :
-Un fichier XML sera créé dans le répertoire courant, avec les informations suivantes :
-
-ID de paiement
-Montant et devise
-Informations sur le payeur (nom, compte)
-Informations sur le bénéficiaire (nom, compte)
-
+Un fichier XML sera créé dans le répertoire courant
 Exécutez le script ReadXml.py pour lire et afficher les informations du fichier XML
 
 
